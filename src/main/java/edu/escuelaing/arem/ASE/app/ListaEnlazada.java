@@ -2,12 +2,12 @@ package edu.escuelaing.arem.ASE.app;
 
 import java.util.*;
 
-public class LinkedList {
+public class ListaEnlazada {
 
     private Puntero cabeza, cola;
     private Collection<Puntero> listaEnlazada;
 
-    public LinkedList(String[] datos) {
+    public ListaEnlazada(String[] datos) {
         this.cabeza = null;
         this.cola=null;
         listaEnlazada=new ArrayList<Puntero>();
@@ -18,7 +18,7 @@ public class LinkedList {
             Puntero nuevo=new Puntero(temp);
             listaEnlazada.add(nuevo);
         }
-        }
+    }
 
     /**
      * Este método se encarga de devolver la actual cabeza de la lista enlazada.
