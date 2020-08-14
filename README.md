@@ -55,3 +55,7 @@ Este proyecto se llevo a cabo con la ayuda de las siguientes herramientas:
 ## Author 
 
 - [Cesar Villamil Ramos](https://github.com/cvillamiljr)
+
+## Lincencia
+
+- Este proyecto esta licenciado por GNU General Public License v3.0 .
