@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.escuelaing.arem.ASE.app","c":"AppTest","l":"AppTest()","url":"%3Cinit%3E()"},{"p":"edu.escuelaing.arem.ASE.app","c":"AppTest","l":"testDesviacion()"},{"p":"edu.escuelaing.arem.ASE.app","c":"AppTest","l":"testMedia()"}]
