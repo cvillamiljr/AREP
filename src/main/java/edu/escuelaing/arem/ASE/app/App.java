@@ -15,7 +15,7 @@ public class App
      * @throws IOException
      */
     public static void main(String[] args) throws IOException {
-        String linea = new String("15,69.9,6.5,22.4,28.4,65.9,19.4,198.7,38.8,138.2");
+        String linea = new String("15,69.9,6.5,22.4,28.4,65.9,19.4,198.7,38.8");
 
         operaciones(linea);
     }
